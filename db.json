@@ -2,17 +2,17 @@
   "GoaCaseReport": [
     {
        "id": 1,
-      "Name": "Goa (गोवाा)",
-      "TotalCases": "1583792",
-      "TotalDeaths": "34968",
-      "TotalRecovered": "1020582",
-      "TotalCaseso": "1.58M",
-      "TotalDeathsw": "34.96K",
-      "TotalRecoveredr": "1.02M",
-      "TotalInc": "52.12K+",
-      "TotalDec": "775+",
-      "TotalRec": "32.55K+",
-      "Condition": "Need to improve"
+      "Namega": "Goa (गोवाा)",
+      "TotalCasesga": "1583792",
+      "TotalDeathsga": "34968",
+      "TotalRecoveredga": "1020582",
+      "TotalCasesoga": "1.58M",
+      "TotalDeathswga": "34.96K",
+      "TotalRecoveredrga": "1.02M",
+      "TotalIncga": "52.12K+",
+      "TotalDecga": "775+",
+      "TotalRecga": "32.55K+",
+      "Conditionga": "Need to improve"
     }
   ]
 }
